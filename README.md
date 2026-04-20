@@ -50,4 +50,4 @@ Key queries (available in `/sql_queries`):
 2. Run SQL scripts from `/sql_queries` (e.g., `monthly_sales_profit.sql`).
 3. Export results or connect to a BI tool.
 
-## Repository Structure
+
